@@ -1,3 +1,3 @@
 # EliteCrop
 
-### Live demo https://mramadan18.github.io/website
+### Live demo https://mramadan18.github.io/EliteCorp
